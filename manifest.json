@@ -9,5 +9,5 @@
   "cuesparkVersion": ">=0.1.0",
   "updateManifestUrl": "https://raw.githubusercontent.com/cuespark/plugin-bot/main/manifest.json",
   "downloadUrl": "https://github.com/cuespark/plugin-bot/releases/download/v0.2.0-alpha.11/plugin-bot.zip",
-  "sha256": "f7404306ca17a2b1e3373044bbcec4b7480c3e14d921da7b13dc58d141923df3"
+  "sha256": "298afc996607f4a767c3668d44db614dd02b16fb3882041329ca6a90996472b3"
 }
