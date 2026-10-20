@@ -6,8 +6,8 @@
   "icon": "at-icons:bot",
   "entry": "dist/index.js",
   "dependencies": [],
-  "streamKitVersion": ">=0.1.0",
-  "updateManifestUrl": "https://raw.githubusercontent.com/stream-kit-app/plugin-bot/main/manifest.json",
-  "downloadUrl": "https://github.com/stream-kit-app/plugin-bot/releases/download/v0.2.0-alpha.11/plugin-bot.zip",
-  "sha256": "30ae0354b54e92bfa63e5844af515c0dfee7c77d81fec665803789c641092fd7"
+  "cuesparkVersion": ">=0.1.0",
+  "updateManifestUrl": "https://raw.githubusercontent.com/cuespark/plugin-bot/main/manifest.json",
+  "downloadUrl": "https://github.com/cuespark/plugin-bot/releases/download/v0.2.0-alpha.11/plugin-bot.zip",
+  "sha256": "336fbc6ef2bc8d252ac83c62d012b3dc4d755fdbbd8930cb623735cd431a0e35"
 }
